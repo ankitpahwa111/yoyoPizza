@@ -20,7 +20,7 @@ YOYO Pizza ChatBot using Dialogflow and Firebase.
      
      
   ## Demo :
-  !['Image']('./Images/BotDemo1.PNG')
+  !['Image']('https://github.com/ankitpahwa111/yoyoPizza/blob/master/Images/BotDemo1.PNG')
     
     
   Below is link of My Yo-Yo-Pizza-Bot: 
