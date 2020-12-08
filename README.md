@@ -1,7 +1,7 @@
-Pizza Ordering ChatBot using Dialogflow and Firebase.
+YOYO Pizza ChatBot using Dialogflow and Firebase.
 
 
- Steps:
+ ## Steps:
     
      1. Write Order Pizza 
     
@@ -19,8 +19,9 @@ Pizza Ordering ChatBot using Dialogflow and Firebase.
      now Customer able to see their order status by entering their contact number again which is given before by customer.
      
      
-    
-    
+  ## Demo :
+
+       ![Yoyo](https://github.com/ankitpahwa111/yoyoPizza/blob/master/Images/BotDemo1.PNG)
     
     
   Below is link of My Yo-Yo-Pizza-Bot: 
