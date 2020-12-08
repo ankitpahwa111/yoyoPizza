@@ -1,4 +1,4 @@
-YOYO Pizza ChatBot using Dialogflow and Firebase.
+# YOYO Pizza ChatBot using Dialogflow and Firebase.
 
 
  ## Steps:
@@ -16,7 +16,9 @@ YOYO Pizza ChatBot using Dialogflow and Firebase.
      6. Write contact number
     
      Order Placed.
-     now Customer able to see their order status by entering their contact number again which is given before by customer.
+     
+     ` How to view status of order `
+     Now Customer able to see their order status by entering their contact number again which is given before by customer.
      
      
   ## Demo :
