@@ -20,12 +20,7 @@ YOYO Pizza ChatBot using Dialogflow and Firebase.
      
      
   ## Demo :
-  
-  <img
-src=“./Images/BotDemo1.PNG”
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+  !['Image']('Images/BotDemo1.PNG')
     
     
   Below is link of My Yo-Yo-Pizza-Bot: 
